@@ -78,8 +78,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - [To be a Solutions Architect](https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe)
 
 ## Certifications and Courses
-- AWS Certified Solutions Architect - Associate
-- PCAP Certified Associate in Python Programming
+- [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/ba0dc25c-3b38-4b27-878a-639eb0d888bc/public_url)
+- [PCAP Certified Associate in Python Programming](https://www.youracclaim.com/badges/32c3c723-97d9-444f-bea6-5e766e5394d6/public_url)
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.
 - Machine Learning by Stanford University, Prof. Andrew Ng.
 - Introduction to Big Data by University of California San Diego.
