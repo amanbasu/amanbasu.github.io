@@ -87,10 +87,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Computer Vision Specialization by University of Buffalo.
 
 ## Achievements
-- Poster presentation at **Nvidia GTC** (2019)
-- Most Innovative Idea award at HSBC global graduates hackathon (2019)
-
-<img src="img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="548px" height="460px"/><br>
+- Poster presentation at **Nvidia GTC** (2019) [[poster]](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)
+- **Most Innovative Idea** award at HSBC global graduates hackathon (2019) [[blog]](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)
 
 ## Hobbies & Interests
 - Body Building and Cooking.
