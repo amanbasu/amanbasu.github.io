@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="img/Icon.jpg" />
+<img class="profile-picture" src="img/Icon.jpg" width="200px" />
 
 B.Tech in Computer Engineer from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning having experience in projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery, and Audio Signal Processing. Besides the academic activities, I am very passionate about Body Building and Fitness.
 
@@ -18,7 +18,7 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 
 ## Research
 
-#### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  
+#### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  [[arXiv]](https://arxiv.org/abs/2007.06230)
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
 - We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
@@ -27,7 +27,7 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 <img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="267"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
-#### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
+#### 3D Prostate Segmentation of MR Images using FCNN [[code]](https://github.com/amanbasu/3d-prostate-segmentation) [[pdf]](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)
 - Segmentation of prostate from MRI considering 3D volume.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - [Poster](https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png) presented at Nvidia GTC 2019.
@@ -43,28 +43,28 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Detection of crop species and diseases using image data.
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
 
-#### Speech Emotion Recognition [link](https://github.com/amanbasu/speech-emotion-recognition)
+#### Speech Emotion Recognition [[code]](https://github.com/amanbasu/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
-#### Autonomous Car [link](https://github.com/amanbasu/Autonomous-Car-Prototype)
+#### Autonomous Car [[code]](https://github.com/amanbasu/Autonomous-Car-Prototype)
 - A self-driving RC car which maneuvered itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was able to achieve a classifying accuracy of 94%.
 
 ## Other Projects
 
-#### Breaking Bill [link](https://github.com/amanbasu/Breaking-Bill)
+#### Breaking Bill [[code]](https://github.com/amanbasu/Breaking-Bill)
 - Android application to add expenses to a list along with the members who share it.
 - Users can generate bills and split monthly expenses among members according to their contributions.
 
-#### File Sender Application [link](https://github.com/amanbasu/Wifi-P2p)
+#### File Sender Application [[code]](https://github.com/amanbasu/Wifi-P2p)
 - An android application to send files from one android device to another.
 - The application used wifi direct and socket programming.
 - It was capable to sharing any type of file format like image, audio, video, text, pdf, doc, xls etc.
 
-#### Hospital Management System [link](https://github.com/amanbasu/hospital-management-system)
+#### Hospital Management System [[code]](https://github.com/amanbasu/hospital-management-system)
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
 ## Blogs
