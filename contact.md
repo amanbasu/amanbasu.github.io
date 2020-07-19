@@ -5,8 +5,6 @@ is_contact: true
 
 * Email: [amanag.11@gmail.com](mailto:amanag.11@gmail.com)
 
-* Phone: [+91-7574014476](tel:+91-7574014476)
-
 ---
 
 ## Mailing Address
