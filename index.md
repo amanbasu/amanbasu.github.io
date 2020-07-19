@@ -12,6 +12,9 @@ B.Tech in Computer Engineer from Nirma University, Ahmedabad, India. I have been
 
 Application of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Signal Processing.
 
+## Volunteering Experience
+- **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
+
 ## Publications
 - Agarwal, A., Mishra, A., Sharma, P., Jain, S., Ranjan, S. and Manchanda, R., 2020. [Using LSTM for the Prediction of Disruption in ADITYA Tokamak](https://arxiv.org/abs/2007.06230). arXiv preprint arXiv:2007.06230.
 - Agarwal, A., Mishra, A., Sharma, P., 2020. [DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf). Submitted to Pattern Recognition and Image Analysis, Springer.
@@ -86,9 +89,6 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Most Innovative Idea award at HSBC global graduates hackathon (2019)
 
 <img src="img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="548px" height="460px"/><br>
-
-## Volunteering Experience
-- **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
 
 ## Hobbies & Interests
 - Body Building and Cooking.
