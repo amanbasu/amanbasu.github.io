@@ -3,24 +3,24 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [amanag.11@gmail.com](mailto:amanag.11@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-7574014476](tel:+91-7574014476)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> R 203, Rohan Mithila I
 >
-> London
+> Pune
 >
-> United Kingdom
+> India
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/aman-agarwal-743548137/)
+2. [Twitter](https://twitter.com/TheAbecedarian_)
+3. [Medium](https://medium.com/@amanag.11)
