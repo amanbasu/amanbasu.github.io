@@ -97,4 +97,4 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Cricket, badminton.
 
 
-<br><hr><br>
+<br><br>
