@@ -15,7 +15,7 @@ Besides the academic activities, I am very passionate about Body Building and Fi
 Application of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Signal Processing.
 
 ## Volunteering Experience
-- **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
+- **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
 
 ## Publications
 - Agarwal, A., Mishra, A., Sharma, P., Jain, S., Ranjan, S. and Manchanda, R., 2020. [Using LSTM for the Prediction of Disruption in ADITYA Tokamak](https://arxiv.org/abs/2007.06230). arXiv preprint arXiv:2007.06230.
