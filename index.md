@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="https://github.com/amanbasu/old_bio/blob/master/img/Icon.jpg">
+<img class="profile-picture" src="img/Icon.jpg" width="200px">
 
 B.Tech in Computer Engineer from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning having experience in projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery, and Audio Signal Processing. Besides the academic activities, I am very passionate about Body Building and Fitness.
 
@@ -24,7 +24,7 @@ Application of Deep Learning and Computer Vision in the doimain of Medical Imagi
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
-<img src="https://github.com/amanbasu/old_bio/blob/master/img/plasma_disruption.gif" alt="plasma disruption animation" class="inline"/><br>
+<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
@@ -32,7 +32,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - [Poster](https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png) presented at Nvidia GTC 2019.
 
-<img src="https://github.com/amanbasu/old_bio/blob/master/img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="535px" height="216px"/><br>
+<img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="535px" height="216px"/><br>
 
 #### AmSat: A holistic system to classify temporal satellite imagery
 - Temporal images were taken from Sentinel 2 satellite and a labeled dataset for classification was prepared.
@@ -70,6 +70,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 ## Blogs
 - [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072)
 - [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)
+- [To be a Solutions Architect](https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe)
 
 ## Certifications and Courses
 - AWS Certified Solutions Architect - Associate
@@ -84,7 +85,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Poster presentation at **Nvidia GTC** (2019)
 - Most Innovative Idea award at HSBC global graduates hackathon (2019)
 
-<img src="https://github.com/amanbasu/old_bio/blob/master/img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="548px" height="460px"/><br>
+<img src="img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="548px" height="460px"/><br>
 
 ## Volunteering Experience
 - **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
