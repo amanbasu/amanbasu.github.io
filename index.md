@@ -10,7 +10,7 @@ B.Tech in Computer Engineer from Nirma University, Ahmedabad, India. I have been
 
 ## Research Interest
 
-Application of Deep Learning and Computer Vision in the doimain of Medical Imaging, Nuclear Physics, and Signal Processing.
+Application of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Signal Processing.
 
 ## Publications
 - Agarwal, A., Mishra, A., Sharma, P., Jain, S., Ranjan, S. and Manchanda, R., 2020. [Using LSTM for the Prediction of Disruption in ADITYA Tokamak](https://arxiv.org/abs/2007.06230). arXiv preprint arXiv:2007.06230.
@@ -24,7 +24,7 @@ Application of Deep Learning and Computer Vision in the doimain of Medical Imagi
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
-<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline"/><br>
+<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="500px"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
