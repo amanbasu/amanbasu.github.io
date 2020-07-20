@@ -44,10 +44,6 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - A customized I3D Inception network (3DCNN) was trained with heavy data augmentation methods to compensate for a very small dataset.
 - The model was trained on AWS EC2 instance giving a validation accuracy of 85%.
 
-#### Analysis of crop health
-- Detection of crop species and diseases using image data.
-- Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
-
 #### Speech Emotion Recognition [[code]](https://github.com/amanbasu/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
@@ -57,6 +53,10 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - A self-driving RC car which maneuvered itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was able to achieve a classifying accuracy of 94%.
+
+#### Analysis of crop health
+- Detection of crop species and diseases using image data.
+- Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
 
 ## Other Projects
 
