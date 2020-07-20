@@ -23,7 +23,7 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 
 ## Research
 
-#### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  [[arXiv]](https://arxiv.org/abs/2007.06230)
+#### Predicting the dynamics of Tokamak discharge [[arXiv]](https://arxiv.org/abs/2007.06230) <br> (Department of Atomic Energy, India)
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
 - We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
@@ -72,10 +72,10 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 #### Hospital Management System [[code]](https://github.com/amanbasu/hospital-management-system)
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
-## Blogs
-- [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072)
-- [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)
-- [To be a Solutions Architect](https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe)
+## Blog Posts
+- [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072): detecting ships in satellite images using Yolo-v3 network.
+- [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0): using ECG signals to authenticate an individual by a siamese network.
+- [To be a Solutions Architect](https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe): a guide to the AWS Certified Solutions Architect Associate exam.
 
 ## Certifications and Courses
 - [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/ba0dc25c-3b38-4b27-878a-639eb0d888bc/public_url)
