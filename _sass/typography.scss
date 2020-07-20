@@ -37,8 +37,8 @@
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
+        height: calc(1.5 * $image-size);
+        width: calc(1.5 * $image-size);
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
