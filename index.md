@@ -18,8 +18,8 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 - **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
 
 ## Publications
-- Agarwal, A., Mishra, A., Sharma, P., Jain, S., Ranjan, S. and Manchanda, R., 2020. [Using LSTM for the Prediction of Disruption in ADITYA Tokamak](https://arxiv.org/abs/2007.06230). arXiv preprint arXiv:2007.06230.
-- Agarwal, A., Mishra, A., Sharma, P., 2020. [DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf). Submitted to Pattern Recognition and Image Analysis, Springer.
+- Agarwal, A., Mishra, A., Sharma, P., Jain, S., Ranjan, S. and Manchanda, R., 2020. Using LSTM for the Prediction of Disruption in ADITYA Tokamak. Submitted to Physics of Plasmas, AIP. [[arXiv](https://arxiv.org/abs/2007.06230)]
+- Agarwal, A., Mishra, A., Sharma, P., Basavarajaiah, M., Tanwar, S., 2020. DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging. Submitted to Pattern Recognition and Image Analysis, Springer. [[preprint](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
 
 ## Research
 
@@ -32,7 +32,7 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 <img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="500px"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
-#### 3D Prostate Segmentation of MR Images using FCNN [[code]](https://github.com/amanbasu/3d-prostate-segmentation) [[pdf]](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)
+#### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
 - Segmentation of prostate from MRI considering 3D volume.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - [Poster](https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png) presented at Nvidia GTC 2019.
@@ -44,12 +44,12 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - A customized I3D Inception network (3DCNN) was trained with heavy data augmentation methods to compensate for a very small dataset.
 - The model was trained on AWS EC2 instance giving a validation accuracy of 85%.
 
-#### Speech Emotion Recognition [[code]](https://github.com/amanbasu/speech-emotion-recognition)
+#### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
-#### Autonomous Car [[code]](https://github.com/amanbasu/Autonomous-Car-Prototype)
+#### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)]
 - A self-driving RC car which maneuvered itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was able to achieve a classifying accuracy of 94%.
@@ -60,16 +60,16 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 ## Other Projects
 
-#### Breaking Bill [[code]](https://github.com/amanbasu/Breaking-Bill)
+#### Breaking Bill [[code](https://github.com/amanbasu/Breaking-Bill)]
 - Android application to add expenses to a list along with the members who share it.
 - Users can generate bills and split monthly expenses among members according to their contributions.
 
-#### File Sender Application [[code]](https://github.com/amanbasu/Wifi-P2p)
+#### File Sender Application [[code](https://github.com/amanbasu/Wifi-P2p)]
 - An android application to send files from one android device to another.
 - The application used wifi direct and socket programming.
 - It was capable to sharing any type of file format like image, audio, video, text, pdf, doc, xls etc.
 
-#### Hospital Management System [[code]](https://github.com/amanbasu/hospital-management-system)
+#### Hospital Management System [[code](https://github.com/amanbasu/hospital-management-system)]
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
 ## Blog Posts
@@ -87,8 +87,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Computer Vision Specialization by University of Buffalo.
 
 ## Achievements
-- Poster presentation at **Nvidia GTC** (2019) [[poster]](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)
-- **Most Innovative Idea** award at HSBC global graduates hackathon (2019) [[blog]](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)
+- Poster presentation at **Nvidia GTC** (2019) [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
+- **Most Innovative Idea** award at HSBC global graduates hackathon (2019) [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 
 ## Hobbies & Interests
 - Body Building and Cooking.
