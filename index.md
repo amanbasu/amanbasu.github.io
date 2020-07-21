@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="img/icon_bright.jpg" width="200px" />
 
-Hi! I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery, and Audio Signal Processing. 
+Hello World! <br>
+I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery, and Audio Signal Processing. 
 
 *I am very passionate about Body Building and Fitness.*
 
