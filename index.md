@@ -23,7 +23,7 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 
 ## Research
 
-#### Predicting the dynamics of Tokamak discharge [[arXiv]](https://arxiv.org/abs/2007.06230) <br> (Department of Atomic Energy, India)
+#### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
 - We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
