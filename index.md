@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## About Me
-
 <img class="profile-picture" src="img/icon_bright.jpg" width="200px" />
 
 Hello World! <br><br>
