@@ -80,6 +80,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0): using ECG signals to authenticate an individual by a siamese network.
 - [To be a Solutions Architect](https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe): a guide to the AWS Certified Solutions Architect Associate exam.
 
+<!--
 ## Certifications and Courses
 - [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/ba0dc25c-3b38-4b27-878a-639eb0d888bc/public_url)
 - [PCAP Certified Associate in Python Programming](https://www.youracclaim.com/badges/32c3c723-97d9-444f-bea6-5e766e5394d6/public_url)
@@ -87,17 +88,17 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Machine Learning by Stanford University, Prof. Andrew Ng.
 - Introduction to Big Data by University of California San Diego.
 - Fundamentals of Accelerated Computing with CUDA, by Nvidia.
-- Computer Vision Specialization by University of Buffalo.
+- Computer Vision Specialization by University of Buffalo. -->
 
 ## Achievements
 - Poster presentation at **Nvidia GTC** (2019) [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
 - **Most Innovative Idea** award at HSBC global graduates hackathon (2019) [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 
+<!--
 ## Hobbies & Interests
 - Body Building and Cooking.
 - Health & Nutrition.
 - Human Anatomy.
-- Cricket, badminton.
-
+- Cricket, badminton. -->
 
 <br><br>
