@@ -61,19 +61,21 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Detection of crop species and diseases using image data.
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
 
+<!--
 ## Other Projects
-
+<!--
 #### Breaking Bill [[code](https://github.com/amanbasu/Breaking-Bill)]
 - Android application to add expenses to a list along with the members who share it.
 - Users can generate bills and split monthly expenses among members according to their contributions.
-
+<!--
 #### File Sender Application [[code](https://github.com/amanbasu/Wifi-P2p)]
 - An android application to send files from one android device to another.
 - The application used wifi direct and socket programming.
 - It was capable to sharing any type of file format like image, audio, video, text, pdf, doc, xls etc.
-
+<!--
 #### Hospital Management System [[code](https://github.com/amanbasu/hospital-management-system)]
-- A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
+- A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database. 
+-->
 
 ## Blog Posts
 - [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072): detecting ships in satellite images using Yolo-v3 network.
