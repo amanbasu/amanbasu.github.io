@@ -29,7 +29,7 @@ Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sude
 #### Poster
 - **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
 Aman Agarwal, Aditya Mishra, and Priyanka Sharma <br>
-Nvidia GTC, San Jose, 2019 [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
+*Nvidia GTC, San Jose, 2019.* [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
 
 
 ## Research
