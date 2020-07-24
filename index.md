@@ -17,12 +17,20 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 - **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
 
 ## Publications
+
+#### Journal
 - **Using LSTM for the Prediction of Disruption in ADITYA Tokamak.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
-Submitted to *Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
+*Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
 - **DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
-Submitted to *Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+*Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+
+#### Poster
+- **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
+Aman Agarwal, Aditya Mishra, and Priyanka Sharma <br>
+Nvidia GTC, San Jose, 2019 [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
+
 
 ## Research
 
@@ -90,8 +98,9 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Machine Learning by Stanford University, Prof. Andrew Ng.
 - Introduction to Big Data by University of California San Diego.
 - Fundamentals of Accelerated Computing with CUDA, by Nvidia.
-- Computer Vision Specialization by University of Buffalo. -->
+- Computer Vision Specialization by University of Buffalo.
 
+<!--
 ## Achievements
 - Poster presentation at **Nvidia GTC** (2019) [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
 - **Most Innovative Idea** award at HSBC global graduates hackathon (2019) [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
