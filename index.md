@@ -34,7 +34,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 
 ## Projects
 
-#### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
+### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
@@ -42,28 +42,28 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 <img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="500px"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
-#### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
 <img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="535px" height="240px"/><br>
 
-#### AmSat: A holistic system to classify temporal satellite imagery
+### AmSat: A holistic system to classify temporal satellite imagery
 - An algorithm to detect the construction activity from temporal satellite images.
 - Temporal images were taken from Planet satellite and a labeled dataset for classification was prepared.
 - A customized I3D Inception network (3DCNN) was trained on just 24 samples, giving accuracy of 85% on a test set of 21 samples.
 
-#### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
+### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
-#### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)]
+### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)]
 - A self-driving RC car that can maneuver itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
-#### Analysis of crop health
+### Analysis of crop health
 - Detection of crop species and diseases using image data.
 - Predicting the severity of disease using the image along with other parameters like soil, weather, region etc.
 - Trained the network using a modified loss function, taking two classes into account, specie and disease.
