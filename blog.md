@@ -6,7 +6,7 @@
 <div>
 <img src="img/blog_ship.png" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">Object detection is a technology related to computer vision and image processing for detecting various kinds of semantic objects: like cars, trees, person, and so on, from images or video frames. Their application can be found in self-driving cars, video surveillance, object tracking, image retrieval, medical imaging systems, etc. With the traditional image processing methods, researchers had a tough time devising and generalizing the algorithm for various use-cases and that too with reasonable accuracy. <a href="https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072">Read More</a>.</p>
 </div>
-<hr>
+<br><hr>
 
 ## [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)
 #### Using ECG signals to authenticate an individual by a siamese network.
