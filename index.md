@@ -16,7 +16,12 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 
 ## Volunteering Experience
 <ul>
-<li><p align="justify"> <b>Teaching Assistant</b> for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.</p></li></ul>
+  <li>
+    <p align="justify"> 
+      <b>Teaching Assistant</b> for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under <a href="https://technology.nirmauni.ac.in/author/priyanka/">Dr. Priyanka Sharma</a> at Mahindra École Centrale, Hyderabad, India.
+    </p>
+  </li>
+</ul>
 
 ## Publications
 
@@ -37,9 +42,14 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 ## Projects
 
 ### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
-- The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
-- We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
-- Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
+
+<ul>
+  <p align="justify">
+    <li>The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.</li>
+    <li>We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).</li>
+    <li>Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.</li>
+  </p>
+</ul>
 
 <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="80%"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
