@@ -40,7 +40,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
 
-<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="70%" align="center"/><br>
+<img src="img/plasma_demo.gif" alt="plasma disruption animation" class="inline" width="70%" align="center"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
