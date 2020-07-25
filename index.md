@@ -5,7 +5,8 @@ layout: default
 <img class="profile-picture" src="img/icon_bright.jpg" width="200px" />
 
 Hello World! <br><br>
-I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing. 
+
+<p align="justify">I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.</p>
 
 *I am very passionate about Body Building and Fitness.*
 
@@ -39,14 +40,14 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
 
-<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="500px" align="center"/><br>
+<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline" width="600px"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
-<img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="535px" height="216px" align="center"/><br>
+<img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="600px"/><br>
 
 ### AmSat: A holistic system to classify temporal satellite imagery
 - An algorithm to detect the construction activity from temporal satellite images.
