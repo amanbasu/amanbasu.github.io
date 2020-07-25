@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-#footer: yes
+footer: yes
 #footer_url: "https://github.com/amanbasu"
-#footer_text: "Page design by..."
+footer_text: "<br><br>"
 
 sass:
     style: compressed
