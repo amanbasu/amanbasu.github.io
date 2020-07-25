@@ -15,7 +15,7 @@ Hello World! <br>
 Application of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Signal Processing.
 
 ## Volunteering Experience
-- **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
+- **Teaching Assistant** <p align="justify">for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.</p>
 
 ## Publications
 
