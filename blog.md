@@ -25,6 +25,5 @@
 <img src="img/blog_aws.png" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">A solutions architect is responsible for designing a system architecture specific to an application. For example, when you create a public website, the architect would be responsible for its security, backend servers, database, and other important aspects like scalability, availability, and cost. Getting certified by AWS not only gives you the credential to boast about but, also makes you familiar with the AWS cloud architecture that you can leverage to design an architecture for your application efficiently (using the best practices). <a href="https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe">Read More</a>.</p>
 </div>
 <br/>
-<hr/>
 
 <br><br>
