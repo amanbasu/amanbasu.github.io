@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<img class="profile-picture" src="img/icon_bright.jpg" width="200px" style="margin:0 10px 0 0;" />
+<img class="profile-picture" src="img/icon_bright.jpg" width="200px" />
 
 Hello World! <br>
 
-<p align="justify" style="margin:10px;">I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.</p>
+<p align="justify" style="margin:0 10px 0 0;">I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.</p>
 
 *I am very passionate about Body Building and Fitness.*
 
