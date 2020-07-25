@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 #footer_url: "https://github.com/amanbasu"
-footer_text: "[GitHub](https://github.com/amanbasu), [LinkedIn](https://www.linkedin.com/in/theabecedarian/)<br><br>"
+footer_text: "<a href="https://github.com/amanbasu">GitHub</a>, <a href="https://www.linkedin.com/in/theabecedarian/">LinkedIn</a><br><br>"
 
 sass:
     style: compressed
