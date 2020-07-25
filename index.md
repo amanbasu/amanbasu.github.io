@@ -6,22 +6,17 @@ layout: default
 
 Hello World! <br>
 
-<p align="justify" style="margin:0 20px 0 0;">I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.</p>
+<p align="justify" style="margin:0 20px 0 0;">
+  I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.
+</p>
 
 *I am very passionate about Body Building and Fitness.*
 
 ## Research Interest
-
 Application of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Signal Processing.
 
 ## Volunteering Experience
-<ul>
-  <li>
-    <p align="justify"> 
-      <b>Teaching Assistant</b> for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under <a href="https://technology.nirmauni.ac.in/author/priyanka/">Dr. Priyanka Sharma</a> at Mahindra École Centrale, Hyderabad, India.
-    </p>
-  </li>
-</ul>
+- **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under [Dr. Priyanka Sharma](https://technology.nirmauni.ac.in/author/priyanka/) at Mahindra École Centrale, Hyderabad, India.
 
 ## Publications
 
@@ -38,18 +33,12 @@ Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sude
 Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 *Nvidia GTC, San Jose, 2019.* [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
 
-
 ## Projects
 
 ### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
-
-<ul>
-  <p align="justify">
-    <li>The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.</li>
-    <li>We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).</li>
-    <li>Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.</li>
-  </p>
-</ul>
+- The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
+- We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
+- Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
 
 <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="80%"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
@@ -124,4 +113,5 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Human Anatomy.
 - Cricket, badminton. -->
 
-<br><br>
+<br>
+<br>
