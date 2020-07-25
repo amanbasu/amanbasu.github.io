@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="img/icon_bright.jpg" width="200px" style="margin:10px;" />
+<img class="profile-picture" src="img/icon_bright.jpg" width="200px" style="margin:0 10px 0 0;" />
 
 Hello World! <br><br>
 
