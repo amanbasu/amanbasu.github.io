@@ -84,6 +84,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database. 
 -->
 
+<!--
 ## Blog Posts
 - [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072): detecting ships in satellite images using Yolo-v3 network.
 - [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0): using ECG signals to authenticate an individual by a siamese network.
