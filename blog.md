@@ -3,6 +3,8 @@
 ## Ship Detection in Satellite Images from Scratch
 #### Detecting ships in satellite images using Yolo-v3 network.
 
+<a href="https://images.pexels.com/photos/2226458/pexels-photo-2226458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width="200px"/>
+
 Object detection is a technology related to computer vision and image processing for detecting various kinds of semantic objects: like cars, trees, person, and so on, from images or video frames. Their application can be found in self-driving cars, video surveillance, object tracking, image retrieval, medical imaging systems, etc. With the traditional image processing methods, researchers had a tough time devising and generalizing the algorithm for various use-cases and that too with reasonable accuracy. [Read More](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072).
 
 ## ECG to Identify Individuals
