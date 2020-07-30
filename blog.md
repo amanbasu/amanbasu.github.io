@@ -27,7 +27,4 @@
 <br/>
 <hr/>
 
-<blockquote class="embedly-card"><h4><a href="https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072">Ship Detection in Satellite Images from Scratch</a></h4><p>Object detection is a technology related to computer vision and image processing for detecting various kinds of semantic objects: like cars, trees, person, and so on, from images or video frames. Their application can be found in self-driving cars, video surveillance, object tracking, image retrieval, medical imaging systems, etc.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 <br><br>
