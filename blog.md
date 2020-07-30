@@ -25,5 +25,9 @@
 <img src="img/blog_aws.png" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">A solutions architect is responsible for designing a system architecture specific to an application. For example, when you create a public website, the architect would be responsible for its security, backend servers, database, and other important aspects like scalability, availability, and cost. Getting certified by AWS not only gives you the credential to boast about but, also makes you familiar with the AWS cloud architecture that you can leverage to design an architecture for your application efficiently (using the best practices). <a target="_blank" href="https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe">Read More</a>.</p>
 </div>
 <br/>
+<hr/>
+
+<blockquote class="embedly-card"><h4><a href="https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072">Ship Detection in Satellite Images from Scratch</a></h4><p>Object detection is a technology related to computer vision and image processing for detecting various kinds of semantic objects: like cars, trees, person, and so on, from images or video frames. Their application can be found in self-driving cars, video surveillance, object tracking, image retrieval, medical imaging systems, etc.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br><br>
