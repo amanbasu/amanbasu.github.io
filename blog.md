@@ -1,7 +1,7 @@
 # Blog Posts
 
 ## [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072)
-#### Detecting ships in satellite images using Yolo-v3 network.
+#### Detecting ships in satellite images using YOLOv3 network.
 
 <div>
 <img src="img/blog_sd.png" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">Object detection is a technology related to computer vision and image processing for detecting various kinds of semantic objects: like cars, trees, person, and so on, from images or video frames. Their application can be found in self-driving cars, video surveillance, object tracking, image retrieval, medical imaging systems, etc. With the traditional image processing methods, researchers had a tough time devising and generalizing the algorithm for various use-cases and that too with reasonable accuracy. <a target="_blank" href="https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072">Read More</a>.</p>
@@ -25,5 +25,4 @@
 <img src="img/blog_aws.png" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">A solutions architect is responsible for designing a system architecture specific to an application. For example, when you create a public website, the architect would be responsible for its security, backend servers, database, and other important aspects like scalability, availability, and cost. Getting certified by AWS not only gives you the credential to boast about but, also makes you familiar with the AWS cloud architecture that you can leverage to design an architecture for your application efficiently (using the best practices). <a target="_blank" href="https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe">Read More</a>.</p>
 </div>
 <br/>
-
-<br>
+<br/>
