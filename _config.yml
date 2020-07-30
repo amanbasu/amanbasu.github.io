@@ -1,6 +1,6 @@
 title: Aman Agarwal
 url: "https://amanagarwal.io"
-baseurl: "https://amanagarwal.io"
+baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
