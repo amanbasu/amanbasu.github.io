@@ -121,7 +121,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
     <img src="https://img.icons8.com/android/96/000000/linkedin.png" width="40px">
   </a>
   <a href="https://github.com/amanbasu">
-    <img src="https://img.icons8.com/material-sharp/96/000000/github.png" width="43px">
+    <img src="https://img.icons8.com/material-sharp/96/000000/github.png" width="45px">
   </a>
 </p>
 
