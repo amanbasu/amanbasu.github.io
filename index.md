@@ -40,8 +40,8 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - The algorithm converts the ECG signals to frequency spectrogram and verifies the user by a siamese network.
 - ECG is unique for an individual and is promising for this task. 
 
-<img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/>
-*Source: Security Heartbeat GIF By Sandia National Labs*
+<!-- img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/-->
+<!-- *Source: Security Heartbeat GIF By Sandia National Labs* -->
 
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
