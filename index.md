@@ -35,10 +35,11 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 
 ## Projects
 
-### Using ECG for Biometric Authentication [[code](https://github.com/amanbasu/ECG-Authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
+### Using ECG for Biometric Authentication (Ongoing) [[code](https://github.com/amanbasu/ECG-Authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 - ECG signals from smartwatch are passed to an algorithm hosted on web.
 - The algorithm converts the ECG signals to frequency spectrogram and verifies the user by a siamese network.
 - ECG is unique for an individual and is promising for this task. 
+[Reference](https://ieeexplore.ieee.org/document/7353191)
 
 <!-- img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/-->
 <!-- *Source: Security Heartbeat GIF By Sandia National Labs* -->
