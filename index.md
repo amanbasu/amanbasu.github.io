@@ -21,12 +21,12 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 ## Publications
 
 #### Journal
-- **Using LSTM for the Prediction of Disruption in ADITYA Tokamak.** <br>
-Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
-*Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
 - **DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
 *Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+- **Using LSTM for the Prediction of Disruption in ADITYA Tokamak.** <br>
+Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
+*Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
 
 #### Poster
 - **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
@@ -35,6 +35,20 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 
 ## Projects
 
+### Using ECG for Biometric Authentication [[code](https://github.com/amanbasu/ECG-Authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
+- ECG signals from smartwatch are passed to an algorithm hosted on web.
+- The algorithm converts the ECG signals to frequency spectrogram and verifies the user by a siamese network.
+- ECG is unique for an individual and is promising for this task. 
+
+<img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/>
+*Source: Security Heartbeat GIF By Sandia National Labs*
+
+### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+- Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
+- The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
+
+<img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%"/><br>
+
 ### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
@@ -42,12 +56,6 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 
 <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="80%"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
-
-### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
-- Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
-- The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
-
-<img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%"/><br>
 
 ### AmSat: A holistic system to classify temporal satellite imagery
 - An algorithm to detect the construction activity from temporal satellite images.
