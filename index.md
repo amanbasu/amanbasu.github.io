@@ -23,7 +23,7 @@ Application of Deep Learning and Computer Vision in the domain of Medical Imagin
 #### Journal
 - **DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
-*Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+*Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](https://amanagarwal.io/files/prostateSeg.pdf)]
 - **Using LSTM for the Prediction of Disruption in ADITYA Tokamak.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
 *Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
@@ -35,7 +35,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. [[preprint](https://amanagarwa
 #### Poster
 - **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
 Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
-*Nvidia GTC, San Jose, 2019.* [[poster](img/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png)]
+*Nvidia GTC, San Jose, 2019.* [[poster](https://amanagarwal.io/files/posterP9190.pdf)]
 
 ## Projects
 
@@ -48,7 +48,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 <!-- img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/-->
 <!-- *Source: Security Heartbeat GIF By Sandia National Labs* -->
 
-### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](http://grand-challenge-public.s3.amazonaws.com/evaluation-supplementary/40/0eee0725-be00-436c-9680-f2a234d2b1f2/Prostate_Segmenta_YQxkwBU.pdf)]
+### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](https://amanagarwal.io/files/prostateSeg.pdf)]
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
