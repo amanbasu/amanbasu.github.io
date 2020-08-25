@@ -28,6 +28,10 @@ Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sude
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
 *Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
 
+#### Pre-print
+- **Behavioral Cloning in Autonomous Vehicle Using Deep Learning** <br>
+Aman Agarwal, Aditya Mishra, and Priyanka Sharma. [[preprint](https://amanagarwal.io/files/autoCar.pdf)]
+
 #### Poster
 - **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
 Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
@@ -68,7 +72,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
-### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)]
+### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)] [[paper](https://amanagarwal.io/files/autoCar.pdf)]
 - A self-driving RC car that can maneuver itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was deployed on Raspberry Pi for real-time predictions.
