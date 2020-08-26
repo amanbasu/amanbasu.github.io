@@ -59,7 +59,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
 
-<img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="80%"/><br>
+<img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 ### AmSat: A holistic system to classify temporal satellite imagery
@@ -76,6 +76,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - A self-driving RC car that can maneuver itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was deployed on Raspberry Pi for real-time predictions.
+
+<img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="70%"/><br>
 
 ### Analysis of crop health
 - Detection of crop species and diseases using image data.
