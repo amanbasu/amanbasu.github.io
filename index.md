@@ -53,7 +53,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
 <div style="align: center;">
-  <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/>
+  <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 40px;"/>
 </div>
 
 <!-- img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/><br-->
@@ -64,7 +64,7 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
 
 <div style="align: center;">
-  <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/>
+  <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 60px;"/>
 </div>
 
 <!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
@@ -86,7 +86,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
 <div style="align: center;">
-  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 100px;"/>
+  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 80px;"/>
 </div>
 
 ### Analysis of crop health
