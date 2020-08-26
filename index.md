@@ -52,14 +52,14 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
-<img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 500px;"/><br>
+<img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 100px;"/><br>
 
 ### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
 
-<img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 500px;"/><br>
+<img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 100px;"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 ### AmSat: A holistic system to classify temporal satellite imagery
@@ -78,7 +78,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
 <div>
-<img src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 500px;"/> 
+<img src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 100px;"/> 
 </div>
 
 
