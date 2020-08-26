@@ -77,8 +77,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
-<div style="width:500px; max-width:500px;">
-  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 150px;"/>
+<div style="width:250px; max-width:250px;">
+  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 100px;"/>
 </div>
 
 ### Analysis of crop health
