@@ -78,7 +78,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
 <div>
-<img src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" align="left" style="margin: 0 0 0 100px;"/> 
+<img src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 0 0 100px;"/> 
 </div>
 
 
