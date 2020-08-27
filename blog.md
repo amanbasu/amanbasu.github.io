@@ -25,4 +25,13 @@
 <img src="img/blog_aws.png" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">A solutions architect is responsible for designing a system architecture specific to an application. For example, when you create a public website, the architect would be responsible for its security, backend servers, database, and other important aspects like scalability, availability, and cost. Getting certified by AWS not only gives you the credential to boast about but, also makes you familiar with the AWS cloud architecture that you can leverage to design an architecture for your application efficiently (using the best practices). <a target="_blank" href="https://medium.com/@amanag.11/to-be-a-solutions-architect-3990135ac2fe">Read More</a>.</p>
 </div>
 <br/>
+<hr/>
+
+## [Driving Sans Driver](https://medium.com/@amanag.11/driving-sans-driver-e7293b49d84f)
+#### The journey towards building a self-driving car from scratch.
+
+<div>
+<img src="img/blog_car.jpg" width="150px" float="left" align="left" style="margin:10px;"/> <p align="justify">We were going to build a small remote control car using Raspberry Pi, with a camera mounted over it. The camera would take the picture in front of the car and help it maneuver autonomously using a deep neural network. Till this point, we had learned the basics of CNN and knew how to train the model using a top-level library such as Keras. Also, we decided to build our own car track so that the model can be used on actual cars and not just on the Jupyter Notebook. The first step for building the track was to... <a target="_blank" href="https://medium.com/@amanag.11/driving-sans-driver-e7293b49d84f">Read More</a>.</p>
+</div>
+<br/>
 <br/>
