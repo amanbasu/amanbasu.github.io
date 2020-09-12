@@ -22,8 +22,8 @@ nav:
    link: "/portfolio/"
  - name: "Google Scholar"
    link: "https://scholar.google.com/citations?user=pbuqtFQAAAAJ&hl=en"
-# - name: "LinkedIn"
-#   link: "https://www.linkedin.com/in/theabecedarian/"
  - name: "Blog"
    link: "blog"
+ - name: "CV"
+   link: "/files/cv12sep.pdf"
 
