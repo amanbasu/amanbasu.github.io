@@ -13,7 +13,7 @@ Hello World! <br>
 *I am very passionate about [Body Building and Fitness](/bodybuilding).*
 
 ## Research Interest
-Application of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Signal Processing.
+Applications of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Autonomous Driving.
 
 ## Volunteering Experience
 - **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under <a target="_blank" href="https://technology.nirmauni.ac.in/author/priyanka/">Dr. Priyanka Sharma</a> at Mahindra École Centrale, Hyderabad, India.
