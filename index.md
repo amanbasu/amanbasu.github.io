@@ -7,7 +7,7 @@ layout: default
 Hello World! <br>
 
 <p align="justify" style="margin:0 20px 0 0;">
-  I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 3 years, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.
+  I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.
 </p>
 
 *I am very passionate about [Body Building and Fitness](/bodybuilding).*
@@ -61,14 +61,14 @@ Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
 ### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
-- Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter, and many other.
+- Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings, and many other.
 
 <div style="align: center;">
   <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 60px;"/>
 </div>
 
 <!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
-Our model predicting the disruption of Plasma current (12ms ahead) in real time.
+Our model predicting the disruption in tokamak plasma in real time.
 
 ### AmSat: A holistic system to classify temporal satellite imagery
 - An algorithm to detect the construction activity from temporal satellite images.
