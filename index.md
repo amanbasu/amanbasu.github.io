@@ -6,7 +6,7 @@ layout: default
 
 Hello World! <br>
 
-<p align="justify" style="margin:0 20px 0 0;">
+<p align="justify" style="margin:0 30px 0 0;">
   I am a Software Engineer at HSBC Technology India. I did my undergraduate in Computer Engineering from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning, having experience in projects involving Computer Vision, Medical Imaging, Satellite Imagery, Signal Processing, Nuclear Physics, and Parallel Computing.
 </p>
 
