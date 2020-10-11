@@ -20,6 +20,11 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ## Publications
 
+#### Poster
+- **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
+Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
+*Nvidia GTC, San Jose, 2019.* [[poster](https://amanagarwal.io/files/posterP9190.png)]
+
 #### Journal
 - **DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
@@ -31,11 +36,6 @@ Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ran
 #### Pre-print
 - **Behavioral Cloning in Autonomous Vehicle Using Deep Learning** <br>
 Aman Agarwal, Aditya Mishra, and Priyanka Sharma. [[preprint](https://amanagarwal.io/files/autoCar.pdf)]
-
-#### Poster
-- **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
-Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
-*Nvidia GTC, San Jose, 2019.* [[poster](https://amanagarwal.io/files/posterP9190.png)]
 
 ## Projects
 
