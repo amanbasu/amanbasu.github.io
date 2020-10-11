@@ -86,7 +86,7 @@ Our model predicting the disruption in tokamak plasma in real time.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
 <div style="align: center;">
-  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 80px;"/>
+  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 100px;"/>
 </div>
 
 ### Analysis of crop health
