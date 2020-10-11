@@ -2,7 +2,7 @@
 
 ### [Visit the live Website](https://amanagarwal.io)
 
-A clean, single column, monospace resume template built for jekyll
+A clean, single column, monospace homepage template built for jekyll.
 
 ### Installation
 
