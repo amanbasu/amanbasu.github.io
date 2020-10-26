@@ -20,22 +20,23 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ## Publications
 
-#### Poster
-- **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
-Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
-*Nvidia GTC, San Jose, 2019.* [[poster](https://amanagarwal.io/files/posterP9190.png)]
-
 #### Journal
 - **DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
-*Submitted to Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](https://amanagarwal.io/files/prostateSeg.pdf)]
+*[Accepted](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/20-055+Notification+Letter+Accepted.pdf) in Pattern Recognition and Image Analysis, Springer, 2020.* [[preprint](https://amanagarwal.io/files/prostateSeg.pdf)]
 - **Using LSTM for the Prediction of Disruption in ADITYA Tokamak.** <br>
 Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
 *Submitted to Physics of Plasmas, AIP, 2020.* [[arXiv](https://arxiv.org/abs/2007.06230)]
 
-#### Pre-print
+#### Conference
 - **Behavioral Cloning in Autonomous Vehicle Using Deep Learning** <br>
-Aman Agarwal, Aditya Mishra, and Priyanka Sharma. [[preprint](https://amanagarwal.io/files/autoCar.pdf)]
+Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
+*Submitted to Computing Conference 2021* [[preprint](https://amanagarwal.io/files/autoCar.pdf)]
+
+#### Poster
+- **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
+Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
+*Nvidia GTC, San Jose, 2019.* [[poster](https://amanagarwal.io/files/posterP9190.png)]
 
 ## Projects
 
