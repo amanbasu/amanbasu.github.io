@@ -31,7 +31,7 @@ Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ran
 #### Conference
 - **Behavioral Cloning in Autonomous Vehicle Using Deep Learning** <br>
 Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
-*Submitted to Computing Conference, London, 2021* [[preprint](https://amanagarwal.io/files/autoCar.pdf)]
+*Submitted to Computing Conference, London, 2021.* [[preprint](https://amanagarwal.io/files/autoCar.pdf)]
 
 #### Poster
 - **P9190: Volumetric Prostate Segmentation from MRI using FCNN.** <br>
