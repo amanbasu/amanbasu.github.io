@@ -23,7 +23,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 #### Journal
 - [DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf) <br>
 **Aman Agarwal**, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
-*Accepted in Pattern Recognition and Image Analysis, Springer, 2020.* 
+*Accepted in Pattern Recognition and Image Analysis, Springer, 2021.* 
 - [Using LSTM for the Prediction of Disruption in ADITYA Tokamak.](https://arxiv.org/abs/2007.06230) <br>
 **Aman Agarwal**, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
 *Submitted to Physics of Plasmas, AIP, 2020.*
