@@ -49,7 +49,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 <!-- img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/-->
 <!-- *Source: Security Heartbeat GIF By Sandia National Labs* -->
 
-### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](https://amanagarwal.io/files/prostateSeg.pdf)]
+### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
@@ -71,7 +71,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 <!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
 Our model predicting the disruption in tokamak plasma in real time.
 
-### AmSat: A holistic system to classify temporal satellite imagery
+### AmSat: A holistic system to classify temporal satellite imagery [[poster](https://github.com/amanbasu/amanbasu/blob/master/satellite_image_classification.pdf)]
 - An algorithm to detect the construction activity from temporal satellite images.
 - Temporal images were taken from Planet satellite and a labeled dataset for classification was prepared.
 - A customized I3D Inception network (3DCNN) was trained on just 24 samples, giving accuracy of 85% on a test set of 21 samples.
