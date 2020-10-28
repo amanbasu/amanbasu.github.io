@@ -21,21 +21,21 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 ## Publications
 
 #### Journal
-- **[DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)** <br>
-Aman Agarwal, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
+- [DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf) <br>
+**Aman Agarwal**, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
 *Accepted in Pattern Recognition and Image Analysis, Springer, 2020.* 
-- **[Using LSTM for the Prediction of Disruption in ADITYA Tokamak.](https://arxiv.org/abs/2007.06230)** <br>
-Aman Agarwal, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
+- [Using LSTM for the Prediction of Disruption in ADITYA Tokamak.](https://arxiv.org/abs/2007.06230) <br>
+**Aman Agarwal**, Aditya Mishra, Priyanka Sharma, Swati Jain, Sutapa Ranjan, and Ranjana Manchanda. <br>
 *Submitted to Physics of Plasmas, AIP, 2020.*
 
 #### Conference
-- **[Behavioral Cloning in Autonomous Vehicle Using Deep Learning.](https://amanagarwal.io/files/autoCar.pdf)** <br>
-Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
+- [Behavioral Cloning in Autonomous Vehicle Using Deep Learning.](https://amanagarwal.io/files/autoCar.pdf) <br>
+**Aman Agarwal**, Aditya Mishra, and Priyanka Sharma. <br>
 *Submitted to Computing Conference, London, 2021.* 
 
 #### Poster
-- **[P9190: Volumetric Prostate Segmentation from MRI using FCNN.](https://amanagarwal.io/files/posterP9190.png)** <br>
-Aman Agarwal, Aditya Mishra, and Priyanka Sharma. <br>
+- [P9190: Volumetric Prostate Segmentation from MRI using FCNN.](https://amanagarwal.io/files/posterP9190.png) <br>
+**Aman Agarwal**, Aditya Mishra, and Priyanka Sharma. <br>
 *Nvidia GTC, San Jose, 2019.*
 
 ## Projects
