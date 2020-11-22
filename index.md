@@ -31,12 +31,12 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 #### Conference
 - [Behavioral Cloning in Autonomous Vehicle Using Deep Learning.](https://amanagarwal.io/files/autoCar.pdf) <br>
 **Aman Agarwal**, Aditya Mishra, and Priyanka Sharma. <br>
-*Submitted to Computing Conference, London, 2021.* 
+*Accepted in Computing Conference, London, 2021.* 
 
 #### Poster
 - [P9190: Volumetric Prostate Segmentation from MRI using FCNN.](https://amanagarwal.io/files/posterP9190.png) <br>
 **Aman Agarwal**, Aditya Mishra, and Priyanka Sharma. <br>
-*Nvidia GTC, San Jose, 2019.*
+*NVIDIA GPU Technology Conference (GTC), San Jose, 2019.*
 
 ## Projects
 
