@@ -34,7 +34,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 *Accepted in Computing Conference, London, 2021.* 
 
 #### Poster
-- [P9190: Volumetric Prostate Segmentation from MRI using FCNN.](https://amanagarwal.io/files/posterP9190.png) <br>
+- [P9190: Volumetric Prostate Segmentation from MRI using FCNN.](http://dx.doi.org/10.13140/RG.2.2.12635.18721) <br>
 **Aman Agarwal**, Aditya Mishra, and Priyanka Sharma. <br>
 *Presented at NVIDIA GPU Technology Conference (GTC), San Jose, 2019.*
 
