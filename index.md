@@ -25,13 +25,11 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 <details><summary>Read more</summary>
 <p>
-  
-  
-- Jul 2019: Joined *HSBC Software Development India* as a Software Engineer.
-- Apr 2019: Conducted *NVIDIA DLI Workshop* on topics of Computer Vision, DL for multiple data types, and CUDA programming at Mahindra École Centrale, Hyderabad.
-- Mar 2019: Presented our poster, *"Volumetric Prostate Segmentation from MRI using FCNN"* at *NVIDIA GPU Technology Conference (GTC)*, San Jose.
-
-
+  <ul>
+    <li>Jul 2019: Joined <i>HSBC Software Development India</i> as a Software Engineer.</li>
+    <li>Apr 2019: Conducted <i>NVIDIA DLI Workshop</i> on topics of Computer Vision, DL for multiple data types, and CUDA programming at Mahindra École Centrale, Hyderabad.</li>
+    <li>Apr 2019: Presented our poster, <i>"Volumetric Prostate Segmentation from MRI using FCNN"</i> at <i>NVIDIA GPU Technology Conference (GTC)</i>, San Jose.</li>
+  </ul>
 </p>
 </details>
 
