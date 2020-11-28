@@ -19,10 +19,10 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 - Oct 2020: Our paper, *"Dilated Volumetric Network: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging"* was accepted in *Pattern Recognition and Image Analysis* journal.
 - Sep 2020: Bagged the *HTI Hero Award* for our exceptional work at HSBC during the COVID-19 pandemic.
 - Aug 2020: Got certified as AWS Machine Learning specialist, Developer, and Solutions Architect.
-- Apr 2020: Gave a talk on *Super-resolution using Deep Learning* at Nirma University, Ahmedabad, India.
+- Apr 2020: Gave a talk on *Super-resolution using Deep Learning* at Nirma University, Ahmedabad.
 - Sep 2019: Received the *Most Innovative Idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods.
-- Apr 2019: Conducted *NVIDIA DLI Workshop* on topics of Computer Vision, DL for multiple data types, and CUDA programming under <a target="_blank" href="https://technology.nirmauni.ac.in/author/priyanka/">Dr. Priyanka Sharma</a> at Mahindra École Centrale, Hyderabad, India.
-- Mar 2019: Presented our poster, *"Volumetric Prostate Segmentation from MRI using FCNN"* at *NVIDIA GPU Technology Conference (GTC)*.
+- Apr 2019: Conducted *NVIDIA DLI Workshop* on topics of Computer Vision, DL for multiple data types, and CUDA programming at Mahindra École Centrale, Hyderabad.
+- Mar 2019: Presented our poster, *"Volumetric Prostate Segmentation from MRI using FCNN"* at *NVIDIA GPU Technology Conference (GTC)*, San Jose.
 
 ## Publications
 
