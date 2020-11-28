@@ -15,13 +15,19 @@ Hello World! <br>
 ## Research Interest
 Applications of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Autonomous Driving.
 
-## Volunteering Experience
-- **Teaching Assistant** for Nvidia DLI Workshop - topics on Computer Vision, DL for multiple data types, and CUDA programming under <a target="_blank" href="https://technology.nirmauni.ac.in/author/priyanka/">Dr. Priyanka Sharma</a> at Mahindra École Centrale, Hyderabad, India.
+## News
+- Oct 2020: Our paper, "Dilated Volumetric Network: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging" was accepted in Pattern Recognition and Image Analysis journal.
+- Sep 2020: Bagged the *HTI Hero Award* for our exceptional work at HSBC during the COVID-19 pandemic.
+- Aug 2020: Got certified as AWS Machine Learning specialist, Developer, and Solutions Architect.
+- Apr 2020: Gave a talk on *Super-resolution* at Nirma University, Ahmedabad, India.
+- Sep 2019: Received the *Most Innovative Idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods.
+- Apr 2019: Conducted *NVIDIA DLI Workshop* on topics of Computer Vision, DL for multiple data types, and CUDA programming under <a target="_blank" href="https://technology.nirmauni.ac.in/author/priyanka/">Dr. Priyanka Sharma</a> at Mahindra École Centrale, Hyderabad, India.
+- Mar 2019: Presented our poster, "Volumetric Prostate Segmentation from MRI using FCNN" at *NVIDIA GPU Technology Conference (GTC)*.
 
 ## Publications
 
 #### Journal
-- [DV-Net: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf) <br>
+- [Dilated Volumetric Network: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf) <br>
 **Aman Agarwal**, Aditya Mishra, Priyanka Sharma, Madhushree Basavarajaiah, and Sudeep Tanwar. <br>
 *Accepted in Pattern Recognition and Image Analysis, Springer, 2021.* 
 - [Using LSTM for the Prediction of Disruption in ADITYA Tokamak.](https://arxiv.org/abs/2007.06230) <br>
