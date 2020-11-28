@@ -20,7 +20,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 - Sep 2020: Bagged the *HTI Hero Award* for our exceptional work at HSBC during COVID-19 pandemic.
 - Aug 2020: Got certified as AWS Machine Learning specialist, Developer, and Solutions Architect.
 - Apr 2020: Gave a talk on *Super-resolution using Deep Learning* at Nirma University, Ahmedabad.
-- Oct 2020: Graduated from Nirma University with a bachelor's degree in Computer Engineering.
+- Oct 2019: Graduated from Nirma University with a bachelor's degree in Computer Engineering.
 - Sep 2019: Received the *Most Innovative Idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods.
 
 <details><summary>Read more</summary>
