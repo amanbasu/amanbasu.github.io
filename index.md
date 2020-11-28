@@ -21,6 +21,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 - Aug 2020: Got certified as AWS Machine Learning specialist, Developer, and Solutions Architect.
 - Apr 2020: Gave a talk on *Super-resolution using Deep Learning* at Nirma University, Ahmedabad.
 - Sep 2019: Received the *Most Innovative Idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods.
+- Jul 2019: Joined *HSBC Software Development India* as a Software Engineer.
 - Apr 2019: Conducted *NVIDIA DLI Workshop* on topics of Computer Vision, DL for multiple data types, and CUDA programming at Mahindra École Centrale, Hyderabad.
 - Mar 2019: Presented our poster, *"Volumetric Prostate Segmentation from MRI using FCNN"* at *NVIDIA GPU Technology Conference (GTC)*, San Jose.
 
