@@ -16,7 +16,7 @@ Hello World! <br>
 Applications of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Autonomous Driving.
 
 ## News
-- Oct 2020: Our paper on Prostate Segmentation was accepted in *Pattern Recognition & Image Analysis*.
+- Oct 2020: Our paper on Prostate Segmentation accepted in *Pattern Recognition & Image Analysis*.
 - Sep 2020: Bagged the *HTI Hero Award* for our exceptional work at HSBC during COVID-19 pandemic.
 - Aug 2020: Got certified as AWS Machine Learning specialist, Developer, and Solutions Architect.
 - Apr 2020: Gave a talk on *Super-resolution using Deep Learning* at Nirma University, Ahmedabad.
