@@ -57,7 +57,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ### Using ECG for Biometric Authentication [[code](https://github.com/amanbasu/ECG-Authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 <img src="https://img.shields.io/github/stars/amanbasu/ECG-Authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ECG-Authentication?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ECG-Authentication?color=00ff00"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
-- ECG signals from smartwatch are passed to a *Siamese* network hosted on web.
+- ECG signals from smartwatch are passed to a *Siamese network* hosted on AWS.
 - The network converts the ECG signals to frequency spectrogram and verifies the user.
 - ECG is unique for an individual and is very promising for this task. 
 [Reference](https://ieeexplore.ieee.org/document/7353191)
@@ -67,7 +67,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ### Object Detection in Satellite Images [[code](https://github.com/amanbasu/ship-detection)]
 <img src="https://img.shields.io/github/stars/amanbasu/ship-detection?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ship-detection?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ship-detection?color=00ff00"/>
-- A deep network to detect ships in oceans from real-time satellite images using *YOLOv3* algorithm.
+- A deep network to detect ships in oceans from real-time satellite images using *YOLOv3*.
 - Trained a customized model on *Darknet* and hosted it on AWS to download the latest satellite images from *Planet Labs*, make predictions, & send the detected object coordinates to the user.
 
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[paper](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
