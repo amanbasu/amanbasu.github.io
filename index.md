@@ -16,7 +16,7 @@ Hello World! <br>
 Applications of Deep Learning and Computer Vision in the domain of Medical Imaging, Nuclear Physics, and Autonomous Driving.
 
 ## News
-- Oct 2020: Our paper, *"Dilated Volumetric Network: An Enhanced Fully Convolutional Network for Volumetric Prostate Segmentation from Magnetic Resonance Imaging"* was accepted in *Pattern Recognition and Image Analysis* journal.
+- Oct 2020: Our paper on Prostate Segmentation was accepted in *Pattern Recognition & Image Analysis*.
 - Sep 2020: Bagged the *HTI Hero Award* for our exceptional work at HSBC during COVID-19 pandemic.
 - Aug 2020: Got certified as AWS Machine Learning specialist, Developer, and Solutions Architect.
 - Apr 2020: Gave a talk on *Super-resolution using Deep Learning* at Nirma University, Ahmedabad.
@@ -57,9 +57,9 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ### Using ECG for Biometric Authentication [[code](https://github.com/amanbasu/ECG-Authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 <img src="https://img.shields.io/github/stars/amanbasu/ECG-Authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ECG-Authentication?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ECG-Authentication?color=00ff00"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
-- ECG signals from smartwatch are passed to an algorithm hosted on web.
-- The algorithm converts the ECG signals to frequency spectrogram and verifies the user by a *Siamese* network.
-- ECG is unique for an individual and is promising for this task. 
+- ECG signals from smartwatch are passed to a *Siamese* network hosted on web.
+- The network converts the ECG signals to frequency spectrogram and verifies the user.
+- ECG is unique for an individual and is very promising for this task. 
 [Reference](https://ieeexplore.ieee.org/document/7353191)
 
 <!-- img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/-->
@@ -67,13 +67,13 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ### Object Detection in Satellite Images [[code](https://github.com/amanbasu/ship-detection)]
 <img src="https://img.shields.io/github/stars/amanbasu/ship-detection?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ship-detection?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ship-detection?color=00ff00"/>
-- A deep network to detect boats and ships in oceans from real-time satellite images using *YOLOv3* algorithm.
-- Trained a customized model on *Darknet* and hosted it on AWS to download the latest satellite images from *Planet Labs*, make predictions, and send the detected object coordinates to the user.
+- A deep network to detect ships in oceans from real-time satellite images using *YOLOv3* algorithm.
+- Trained a customized model on *Darknet* and hosted it on AWS to download the latest satellite images from *Planet Labs*, make predictions, & send the detected object coordinates to the user.
 
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[paper](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
 <img src="https://img.shields.io/github/stars/amanbasu/3d-prostate-segmentation?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/3d-prostate-segmentation?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/3d-prostate-segmentation?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
-- Our enhanced DV-Net model outperformed the results of the baseline V-Net in the *PROMISE12* challenge.
-- The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6%.
+- Our enhanced V-Net model outperformed the results of the baseline in the *PROMISE12* challenge.
+- The model was enhanced by tweaking its architecture, adding dilation, and deep supervision. We improved the accuracy by 6%.
 
 <div style="align: center;">
   <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 40px;"/>
@@ -106,7 +106,7 @@ Our model predicting the disruption in tokamak plasma in real time.
 - The model was deployed on Raspberry Pi for real-time predictions.
 
 <div style="align: center;">
-  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 100px;"/>
+  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 80px;"/>
 </div>
 
 <!--
