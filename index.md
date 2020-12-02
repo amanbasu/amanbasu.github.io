@@ -64,7 +64,13 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 <!-- img src="https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif" width="40%"/><br/-->
 <!-- *Source: Security Heartbeat GIF By Sandia National Labs* -->
 
+### Object Detection in Satellite Images [[code](https://github.com/amanbasu/ship-detection)]
+<img src="https://img.shields.io/github/stars/amanbasu/ship-detection?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ship-detection?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ship-detection?color=00ff00"/>
+- A deep network to detect boats and ships in oceans from real-time satellite images using *YOLOv3* algorithm.
+- Trained a customized model on *Darknet* and hosted it on AWS to download the latest satellite images from *Planet Labs*, make predictions, and send the detected object coordinates to the user.
+
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
+<img src="https://img.shields.io/github/stars/amanbasu/3d-prostate-segmentation?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/3d-prostate-segmentation?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/3d-prostate-segmentation?color=00ff00"/>
 - Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
 
@@ -86,12 +92,8 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 <!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
 Our model predicting the disruption in tokamak plasma in real time.
 
-### AmSat: A holistic system to classify temporal satellite imagery [[poster](https://github.com/amanbasu/amanbasu/blob/master/satellite_image_classification.pdf)]
-- An algorithm to detect the construction activity from temporal satellite images.
-- Temporal images were taken from Planet satellite and a labeled dataset for classification was prepared.
-- A customized I3D Inception network (3DCNN) was trained on just 24 samples, giving accuracy of 85% on a test set of 21 samples.
-
 ### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
+<img src="https://img.shields.io/github/stars/amanbasu/speech-emotion-recognition?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/speech-emotion-recognition?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/speech-emotion-recognition?color=00ff00"/>
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
