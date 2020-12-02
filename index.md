@@ -81,12 +81,6 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 <!-- img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/><br-->
 
-### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
-<img src="https://img.shields.io/github/stars/amanbasu/speech-emotion-recognition?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/speech-emotion-recognition?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/speech-emotion-recognition?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
-- Prediction of human emotions from raw audio using *IEMOCAP* database.
-- Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
-- The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
-
 ### Predicting the dynamics of Tokamak discharge [[paper](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the project was to anticipate the phenomenon of Major Disruption in plasma confinement for *ADITYA Tokamak*.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
@@ -98,6 +92,12 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 <!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
 Our model predicting the disruption in tokamak plasma in real time.
+
+### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
+<img src="https://img.shields.io/github/stars/amanbasu/speech-emotion-recognition?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/speech-emotion-recognition?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/speech-emotion-recognition?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
+- Prediction of human emotions from raw audio using *IEMOCAP* database.
+- Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
+- The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
 ### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)] [[paper](https://amanagarwal.io/files/autoCar.pdf)]
 <img src="https://img.shields.io/github/stars/amanbasu/Autonomous-Car-Prototype?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/Autonomous-Car-Prototype?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/Autonomous-Car-Prototype?color=00ff00"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
