@@ -70,7 +70,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 - A deep network to detect boats and ships in oceans from real-time satellite images using *YOLOv3* algorithm.
 - Trained a customized model on *Darknet* and hosted it on AWS to download the latest satellite images from *Planet Labs*, make predictions, and send the detected object coordinates to the user.
 
-### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
+### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[paper](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
 <img src="https://img.shields.io/github/stars/amanbasu/3d-prostate-segmentation?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/3d-prostate-segmentation?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/3d-prostate-segmentation?color=00ff00"/>
 - Our enhanced DV-Net model outperformed the results of the baseline V-Net in the *PROMISE12* challenge.
 - The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6%.
@@ -81,7 +81,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 <!-- img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/><br-->
 
-### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
+### Predicting the dynamics of Tokamak discharge [[paper](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
 - The aim of the project was to anticipate the phenomenon of Major Disruption in plasma confinement for *ADITYA Tokamak*.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings, and many other.
