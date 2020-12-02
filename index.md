@@ -53,11 +53,12 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 **Aman Agarwal**, Aditya Mishra, and Priyanka Sharma. <br>
 *Presented at NVIDIA GPU Technology Conference (GTC), San Jose, 2019.*
 
-## Projects
+## Open-Source Projects
 
 ### Using ECG for Biometric Authentication [[code](https://github.com/amanbasu/ECG-Authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
+<img src="https://img.shields.io/github/stars/amanbasu/ECG-Authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ECG-Authentication?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ECG-Authentication?color=00ff00"/>
 - ECG signals from smartwatch are passed to an algorithm hosted on web.
-- The algorithm converts the ECG signals to frequency spectrogram and verifies the user by a siamese network.
+- The algorithm converts the ECG signals to frequency spectrogram and verifies the user by a *Siamese* network.
 - ECG is unique for an individual and is promising for this task. 
 [Reference](https://ieeexplore.ieee.org/document/7353191)
 
@@ -71,8 +72,8 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 
 ### 3D Prostate Segmentation of MR Images using FCNN [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[pdf](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwalDilated21.pdf)]
 <img src="https://img.shields.io/github/stars/amanbasu/3d-prostate-segmentation?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/3d-prostate-segmentation?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/3d-prostate-segmentation?color=00ff00"/>
-- Our enhanced V-Net model outperformed the results of the baseline V-Net in PROMISE12 challenge.
-- The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6% points.
+- Our enhanced DV-Net model outperformed the results of the baseline V-Net in the *PROMISE12* challenge.
+- The model was enhanced by tweaking its architecture, adding dilation and deep supervision. We improved the accuracy by 6%.
 
 <div style="align: center;">
   <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 40px;"/>
@@ -81,7 +82,7 @@ Applications of Deep Learning and Computer Vision in the domain of Medical Imagi
 <!-- img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/><br-->
 
 ### Predicting the dynamics of Tokamak discharge [[arXiv](https://arxiv.org/abs/2007.06230)] <br> (Department of Atomic Energy, India)
-- The aim of the project was to anticipate the phenomenon of Disruption during Plasma confinement inside ADITYA Tokamak.
+- The aim of the project was to anticipate the phenomenon of Major Disruption in plasma confinement for *ADITYA Tokamak*.
 - We were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings, and many other.
 
@@ -94,11 +95,12 @@ Our model predicting the disruption in tokamak plasma in real time.
 
 ### Speech Emotion Recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
 <img src="https://img.shields.io/github/stars/amanbasu/speech-emotion-recognition?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/speech-emotion-recognition?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/speech-emotion-recognition?color=00ff00"/>
-- Prediction of human emotions from raw audio using IEMOCAP database.
+- Prediction of human emotions from raw audio using *IEMOCAP* database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
 ### Autonomous Car [[code](https://github.com/amanbasu/Autonomous-Car-Prototype)] [[paper](https://amanagarwal.io/files/autoCar.pdf)]
+<img src="https://img.shields.io/github/stars/amanbasu/Autonomous-Car-Prototype?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/Autonomous-Car-Prototype?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/Autonomous-Car-Prototype?color=00ff00"/>
 - A self-driving RC car that can maneuver itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was deployed on Raspberry Pi for real-time predictions.
@@ -107,13 +109,13 @@ Our model predicting the disruption in tokamak plasma in real time.
   <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 100px;"/>
 </div>
 
+<!--
+## Other Projects
 ### Analysis of crop health
 - Detection of crop species and diseases using image data.
 - Predicting the severity of disease using the image along with other parameters like soil, weather, region etc.
 - Trained the network using a modified loss function, taking two classes into account, specie and disease.
 
-<!--
-## Other Projects
 <!--
 #### Breaking Bill [[code](https://github.com/amanbasu/Breaking-Bill)]
 - Android application to add expenses to a list along with the members who share it.
