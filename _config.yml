@@ -1,4 +1,4 @@
-title: Aman Agarwal
+title: aman agarwal
 url: "https://amanagarwal.io"
 baseurl: "https://amanagarwal.io"
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://amanagarwal.io"
-footer_text: "Aman Agarwal<br><br>"
+footer_text: "aman agarwal<br><br>"
 
 sass:
     style: compressed
@@ -18,11 +18,11 @@ sass:
 nav:
 # - name: "About"
 #   link: "/"
- - name: "Portfolio"
+ - name: "portfolio"
    link: "/portfolio/"
- - name: "Google Scholar"
+ - name: "google scholar"
    link: "https://scholar.google.com/citations?user=pbuqtFQAAAAJ"
- - name: "Blog"
+ - name: "blog"
    link: "https://medium.com/@amanag.11"
 #  - name: "CV"
 #    link: "/files/cv12sep.pdf"
