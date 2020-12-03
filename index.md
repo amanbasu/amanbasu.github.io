@@ -86,10 +86,8 @@ applications of deep learning and computer vision in the domain of medical imagi
 
 <p align="center">  
   <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%"/>
-  <p>our model predicting the disruption in tokamak plasma in real time.</p>
+  <p align="center">our model predicting the disruption in tokamak plasma in real time.</p>
 </p>
-
-
 
 ### speech emotion recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
 <img src="https://img.shields.io/github/stars/amanbasu/speech-emotion-recognition?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/speech-emotion-recognition?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/speech-emotion-recognition?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
