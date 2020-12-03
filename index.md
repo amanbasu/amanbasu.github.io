@@ -75,9 +75,13 @@ applications of deep learning and computer vision in the domain of medical imagi
 - our enhanced v-net model outperformed the results of the baseline in the *promise12* challenge.
 - the model was enhanced by tweaking its architecture, adding dilation, and deep supervision. we improved the accuracy by 6%.
 
-<div style="align: center;">
+<p align="center">  
+  <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%"/>
+</p>
+
+<!-- <div style="align: center;">
   <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 40px;"/>
-</div>
+</div> -->
 
 <!-- img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/><br-->
 
@@ -86,9 +90,13 @@ applications of deep learning and computer vision in the domain of medical imagi
 - we were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings, and many other.
 
-<div style="align: center;">
+<p align="center">  
+  <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%"/>
+</p>
+
+<!-- <div style="align: center;">
   <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 60px;"/>
-</div>
+</div> -->
 
 <!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
 our model predicting the disruption in tokamak plasma in real time.
@@ -105,9 +113,13 @@ our model predicting the disruption in tokamak plasma in real time.
 - convolutional neural network was used to classify the direction of car from dashcam images.
 - the model was deployed on raspberry pi for real-time predictions.
 
-<div style="align: center;">
+<p align="center">  
+  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%"/>
+</p>
+
+<!-- <div style="align: center;">
   <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 80px;"/>
-</div>
+</div> -->
 
 <!--
 ## other projects
