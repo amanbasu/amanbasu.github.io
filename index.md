@@ -79,26 +79,15 @@ applications of deep learning and computer vision in the domain of medical imagi
   <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%"/>
 </p>
 
-<!-- <div style="align: center;">
-  <img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 40px;"/>
-</div> -->
-
-<!-- img align="center" src="img/gif_res.gif" alt="prostate segmentation animation" width="80%" style="margin: 0 50px;"/><br-->
-
 ### predicting the dynamics of tokamak discharge [[paper](https://arxiv.org/abs/2007.06230)] <br> (department of atomic energy, india)
 - the aim of the project was to anticipate the phenomenon of major disruption in plasma confinement for *aditya tokamak*.
-- we were able to anticipate the disruption of plasma 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
+- we were able to anticipate the disruption of plasma 12 ms prior to the actual disruption (4 ms earlier than the state-of-the-art models).
 - input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings, and many other.
 
 <p align="center">  
   <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%"/>
 </p>
 
-<!-- <div style="align: center;">
-  <img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 60px;"/>
-</div> -->
-
-<!-- img align="center" src="img/plasma_demo.gif" alt="plasma disruption animation" width="70%" style="margin: 0 80px;"/><br-->
 our model predicting the disruption in tokamak plasma in real time.
 
 ### speech emotion recognition [[code](https://github.com/amanbasu/speech-emotion-recognition)]
@@ -116,10 +105,6 @@ our model predicting the disruption in tokamak plasma in real time.
 <p align="center">  
   <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%"/>
 </p>
-
-<!-- <div style="align: center;">
-  <img align="center" src="img/auto_car.gif" alt="autonomous vehicle animation" width="50%" style="margin: 0 80px;"/>
-</div> -->
 
 <!--
 ## other projects
