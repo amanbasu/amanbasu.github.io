@@ -56,7 +56,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 ## open-source projects
 
 ### using ecg for biometric authentication [[code](https://github.com/amanbasu/ecg-authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
-<img src="https://img.shields.io/github/stars/amanbasu/ecg-authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ecg-authentication?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ecg-authentication?color=00ff00"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
+<img src="https://img.shields.io/github/stars/amanbasu/ecg-authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ecg-authentication?color=ff8800"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
 - ecg signals from smartwatch are passed to a *siamese network* hosted on aws.
 - the network converts the ecg signals to frequency spectrogram and verifies the user.
 - ecg is unique for an individual and is very promising for this task. 
@@ -96,7 +96,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 - the architecture was trained on nvidia k80 system and gave results comparable to the state-of-the-art models.
 
 ### autonomous car [[code](https://github.com/amanbasu/autonomous-car-prototype)] [[paper](https://amanagarwal.io/files/autocar.pdf)]
-<img src="https://img.shields.io/github/stars/amanbasu/autonomous-car-prototype?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/autonomous-car-prototype?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/autonomous-car-prototype?color=00ff00"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
+<img src="https://img.shields.io/github/stars/amanbasu/autonomous-car-prototype?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/autonomous-car-prototype?color=ff8800"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
 - a self-driving rc car that can maneuver itself on an indoor, hand-made track.
 - convolutional neural network was used to classify the direction of car from dashcam images.
 - the model was deployed on raspberry pi for real-time predictions.
