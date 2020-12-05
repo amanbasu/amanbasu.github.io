@@ -37,7 +37,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 
 #### journal
 - [dilated volumetric network: an enhanced fully convolutional network for volumetric prostate segmentation from magnetic resonance imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwaldilated21.pdf) <br>
-**aman agarwal**, aditya mishra, priyanka sharma, madhushree basavarajaiah, and sudeep tanwar. <br>
+**aman agarwal**, aditya mishra, madhushree basavarajaiah, priyanka sharma, and sudeep tanwar. <br>
 *accepted in pattern recognition and image analysis, springer, 2021.* 
 - [using lstm for the prediction of disruption in aditya tokamak.](https://arxiv.org/abs/2007.06230) <br>
 **aman agarwal**, aditya mishra, priyanka sharma, swati jain, sutapa ranjan, and ranjana manchanda. <br>
