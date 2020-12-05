@@ -36,7 +36,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 ## publications
 
 #### journal
-- [dilated volumetric network: an enhanced fully convolutional network for volumetric prostate segmentation from magnetic resonance imaging.](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwaldilated21.pdf) <br>
+- [dilated volumetric network: an enhanced fully convolutional network for volumetric prostate segmentation from magnetic resonance imaging.](https://amanagarwal.io/3d-prostate-segmentation/) <br>
 **aman agarwal**, aditya mishra, madhushree basavarajaiah, priyanka sharma, and sudeep tanwar. <br>
 *accepted in pattern recognition and image analysis, springer, 2021.* 
 - [using lstm for the prediction of disruption in aditya tokamak.](https://arxiv.org/abs/2007.06230) <br>
@@ -70,7 +70,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 - a deep network to detect ships in oceans from real-time satellite images using *yolov3*.
 - trained a customized model on *darknet* and hosted it on aws to download the latest satellite images from *planet labs*, make predictions, & send the detected object coordinates to the user.
 
-### 3d prostate segmentation of mr images using fcnn [[code](https://github.com/amanbasu/3d-prostate-segmentation)] [[paper](https://just-amans-stuff.s3.ap-south-1.amazonaws.com/agarwaldilated21.pdf)]
+### 3d prostate segmentation of mr images using fcnn [[project page](https://amanagarwal.io/3d-prostate-segmentation/)]
 <img src="https://img.shields.io/github/stars/amanbasu/3d-prostate-segmentation?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/3d-prostate-segmentation?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/3d-prostate-segmentation?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
 - our enhanced v-net model outperformed the results of the baseline in the *promise12* challenge.
 - the model was enhanced by tweaking its architecture, adding dilation, and deep supervision. we improved the accuracy by 6%.
