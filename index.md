@@ -7,7 +7,7 @@ layout: default
 hello world! <br>
 
 <p align="justify" style="margin:0 30px 0 0;">
-  i am a software engineer at <span style="color: #ef241c">hsbc technology</span> india. i did my undergraduate in computer engineering from <span style="color: #decfa8">nirma university</span>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
+  i am a software engineer at <span style="color: #ef241c">hsbc technology</span> india. i did my undergraduate in computer engineering from <span style="color: #0a377a">nirma university</span>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
 </p>
 
 *i am very passionate about body building and fitness.*
@@ -18,9 +18,9 @@ applications of deep learning and computer vision in the domain of medical imagi
 ## news
 - oct 2020: our paper on prostate segmentation accepted in *pattern recognition & image inalysis*.
 - sep 2020: bagged the <span style="color: #ef241c">hsbc hero award</span> for our exceptional work at hsbc during covid-19 pandemic.
-- aug 2020: got certified as aws machine learning specialist, developer, and solutions architect.
-- apr 2020: gave a talk on *super-resolution using deep learning* at nirma university, ahmedabad.
-- oct 2019: graduated from nirma university with a bachelor's degree in computer engineering.
+- aug 2020: got certified as <span style="color: #ff9900">aws</span> machine learning specialist, developer, and solutions architect.
+- apr 2020: gave a talk on *super-resolution using deep learning* at <span style="color: #0a377a">nirma university</span>, ahmedabad.
+- oct 2019: graduated from <span style="color: #0a377a">nirma university</span> with a bachelor's degree in computer engineering.
 - sep 2019: received the *most innovative idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods.
 
 <details><summary>read more</summary>
@@ -57,7 +57,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 
 ### using ecg for biometric authentication [[code](https://github.com/amanbasu/ecg-authentication)] [[blog](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)]
 <img src="https://img.shields.io/github/stars/amanbasu/ecg-authentication?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ecg-authentication?color=ff8800"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
-- ecg signals from smartwatch are passed to a *siamese network* hosted on aws.
+- ecg signals from smartwatch are passed to a *siamese network* hosted on <span style="color: #ff9900">aws</span>.
 - the network converts the ecg signals to frequency spectrogram and verifies the user.
 - ecg is unique for an individual and is very promising for this task. 
 [reference](https://ieeexplore.ieee.org/document/7353191)
@@ -68,7 +68,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 ### object detection in satellite images [[code](https://github.com/amanbasu/ship-detection)]
 <img src="https://img.shields.io/github/stars/amanbasu/ship-detection?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ship-detection?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ship-detection?color=00ff00"/>
 - a deep network to detect ships in oceans from real-time satellite images using *yolov3*.
-- trained a customized model on *darknet* and hosted it on aws to download the latest satellite images from *planet labs*, make predictions, & send the detected object coordinates to the user.
+- trained a customized model on *darknet* and hosted it on <span style="color: #ff9900">aws</span> to download the latest satellite images from *planet labs*, make predictions, & send the detected object coordinates to the user.
 
 ### 3d prostate segmentation of mr images using fcnn [[project page](https://amanagarwal.io/3d-prostate-segmentation/)]
 <img src="https://img.shields.io/github/stars/amanbasu/3d-prostate-segmentation?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/3d-prostate-segmentation?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/3d-prostate-segmentation?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
@@ -93,7 +93,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 <img src="https://img.shields.io/github/stars/amanbasu/speech-emotion-recognition?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/speech-emotion-recognition?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/speech-emotion-recognition?color=00ff00"/> <img src="https://img.shields.io/badge/tensorflow-1.10.0-green?logo=tensorflow"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
 - prediction of human emotions from raw audio using *iemocap* database.
 - bidirectional lstm was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
-- the architecture was trained on nvidia k80 system and gave results comparable to the state-of-the-art models.
+- the architecture was trained on <span style="color: #76b900">nvidia</span> k80 system and gave results comparable to the state-of-the-art models.
 
 ### autonomous car [[code](https://github.com/amanbasu/autonomous-car-prototype)] [[paper](https://amanagarwal.io/files/autocar.pdf)]
 <img src="https://img.shields.io/github/stars/amanbasu/autonomous-car-prototype?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/autonomous-car-prototype?color=ff8800"/> <img src="https://img.shields.io/badge/python-3.6+-ee0044?logo=python"/>
