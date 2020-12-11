@@ -7,7 +7,7 @@ layout: default
 hello world! <br>
 
 <p align="justify" style="margin:0 30px 0 0;">
-  i am a software engineer at <i>hsbc technology</i> india. i did my undergraduate in computer engineering from <i>nirma university</i>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
+  i am a software engineer at <span style="color:red">hsbc technology</span> india. i did my undergraduate in computer engineering from <i>nirma university</i>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
 </p>
 
 *i am very passionate about body building and fitness.*
