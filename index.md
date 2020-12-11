@@ -7,7 +7,7 @@ layout: default
 hello world! <br>
 
 <p align="justify" style="margin:0 30px 0 0;">
-  i am a software engineer at <span style="color:red">hsbc technology</span> india. i did my undergraduate in computer engineering from <i>nirma university</i>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
+  i am a software engineer at <span style="color: #ef241c">hsbc technology</span> india. i did my undergraduate in computer engineering from <span style="color: #decfa8">nirma university</span>, ahmedabad, india. i have been working in the field of artificial intelligence and machine learning, having experience in projects involving computer vision, medical imaging, satellite imagery, signal processing, nuclear physics, and parallel computing.
 </p>
 
 *i am very passionate about body building and fitness.*
@@ -17,7 +17,7 @@ applications of deep learning and computer vision in the domain of medical imagi
 
 ## news
 - oct 2020: our paper on prostate segmentation accepted in *pattern recognition & image inalysis*.
-- sep 2020: bagged the *hti hero award* for our exceptional work at hsbc during covid-19 pandemic.
+- sep 2020: bagged the <span style="color: #ef241c">hsbc hero award</span> for our exceptional work at hsbc during covid-19 pandemic.
 - aug 2020: got certified as aws machine learning specialist, developer, and solutions architect.
 - apr 2020: gave a talk on *super-resolution using deep learning* at nirma university, ahmedabad.
 - oct 2019: graduated from nirma university with a bachelor's degree in computer engineering.
@@ -26,9 +26,9 @@ applications of deep learning and computer vision in the domain of medical imagi
 <details><summary>read more</summary>
 <p>
   <ul>
-    <li>jul 2019: joined <i>hsbc software development india</i> as a software engineer.</li>
-    <li>apr 2019: conducted <i>nvidia dli workshop</i> on topics of computer vision, dl for multiple data types, and cuda programming at mahindra école centrale, hyderabad.</li>
-    <li>apr 2019: presented our poster, on prostate segmentation at <i>nvidia gpu technology conference (gtc)</i>, san jose.</li>
+    <li>jul 2019: joined <span style="color: #ef241c">hsbc software development</span>, india as a software engineer.</li>
+    <li>apr 2019: conducted <span style="color: #76b900">nvidia dli workshop</span> on topics of computer vision, dl for multiple data types, and cuda programming at mahindra école centrale, hyderabad.</li>
+    <li>apr 2019: presented our poster, on prostate segmentation at <span style="color: #76b900">nvidia gpu technology conference (gtc)</span>, san jose.</li>
   </ul>
 </p>
 </details>
