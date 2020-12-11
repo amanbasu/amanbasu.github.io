@@ -156,13 +156,13 @@ applications of deep learning and computer vision in the domain of medical imagi
 
 <p align="center">  
   <a href="https://twitter.com/theabecedarian_">
-    <img src="https://img.icons8.com/android/96/000000/twitter.png" width="40px">
+    <img src="img/twitter.png" width="40px">
   </a>
   <a href="https://www.linkedin.com/in/aman-agarwal-743548137/">
-    <img src="https://img.icons8.com/android/96/000000/linkedin.png" width="40px">
+    <img src="img/linkedin.png" width="40px">
   </a>
   <a href="https://github.com/amanbasu">
-    <img src="https://img.icons8.com/material-sharp/96/000000/github.png" width="45px">
+    <img src="img/github.png" width="45px">
   </a>
 </p>
 
