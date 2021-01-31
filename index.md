@@ -16,16 +16,17 @@ hello world! <br>
 applications of deep learning and computer vision in the domain of medical imaging, nuclear physics, and autonomous driving.
 
 ## news
+- jan 2021: passed the <span style="color: #ffa800">tensorflow developer certification</span> exam.
 - oct 2020: our paper on prostate segmentation accepted in *pattern recognition & image inalysis*.
 - sep 2020: bagged the <span style="color: #ef241c">hsbc hero award</span> for our exceptional work at hsbc during covid-19 pandemic.
 - aug 2020: got certified as <span style="color: #ff9900">aws</span> machine learning specialist, developer, and solutions architect.
 - apr 2020: gave a talk on *super-resolution using deep learning* at <span style="color: #0a377a">nirma university</span>, ahmedabad.
 - oct 2019: graduated from <span style="color: #0a377a">nirma university</span> with a bachelor's degree in computer engineering.
-- sep 2019: received the *most innovative idea* award for our work on authenticating users from electrocardiogram signals and deep learning methods.
 
 <details><summary>read more</summary>
 <p>
   <ul>
+    <li>sep 2019: received the <i>most innovative idea</i> award for our work on authenticating users from electrocardiogram signals and deep learning methods.</li>
     <li>jul 2019: joined <span style="color: #ef241c">hsbc software development</span>, india as a software engineer.</li>
     <li>apr 2019: conducted <span style="color: #76b900">nvidia dli workshop</span> on topics of computer vision, dl for multiple data types, and cuda programming at mahindra école centrale, hyderabad.</li>
     <li>apr 2019: presented our poster, on prostate segmentation at <span style="color: #76b900">nvidia gpu technology conference (gtc)</span>, san jose.</li>
