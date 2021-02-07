@@ -161,11 +161,9 @@ applications of deep learning and computer vision in the domain of medical imagi
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="734d7780-ed11-4f97-96bd-4d50da410aa8" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba0dc25c-3b38-4b27-878a-639eb0d888bc" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba0dc25c-3b38-4b27-878a-639eb0d888bc" data-share-badge-host="https://www.youracclaim.com"></div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32c3c723-97d9-444f-bea6-5e766e5394d6" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
-<div style="display:inline;float:left;"><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28247976"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28247976" width="150"></a></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32c3c723-97d9-444f-bea6-5e766e5394d6" data-share-badge-host="https://www.youracclaim.com"></div><div style="display:inline-block;float:left;"><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28247976"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28247976" width="150"></a></div>
 
 
 <p align="center">  
