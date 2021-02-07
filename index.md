@@ -155,6 +155,13 @@ applications of deep learning and computer vision in the domain of medical imagi
 - human anatomy.
 - cricket, badminton. -->
 
+<iframe
+    src="https://www.credential.net/embed/3bfb32ec-6afc-4c07-8fec-34020dbe7da9"
+    width="80"
+    height="60"
+    frameborder="0">
+  </iframe>
+
 <p align="center">  
   <a href="https://twitter.com/theabecedarian_">
     <img src="img/twitter.png" width="40px">
