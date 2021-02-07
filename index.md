@@ -155,15 +155,13 @@ applications of deep learning and computer vision in the domain of medical imagi
 - human anatomy.
 - cricket, badminton. -->
 
-<iframe
-    src="https://www.credential.net/embed/3bfb32ec-6afc-4c07-8fec-34020dbe7da9"
-    width="80"
-    height="60"
-    frameborder="0">
-  </iframe>
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28247976"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28247976" width="200px"></a>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e50b4df-73d4-4a13-b7fa-f0d5338a4207" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="734d7780-ed11-4f97-96bd-4d50da410aa8" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba0dc25c-3b38-4b27-878a-639eb0d888bc" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <p align="center">  
   <a href="https://twitter.com/theabecedarian_">
