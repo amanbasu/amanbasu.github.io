@@ -3,13 +3,13 @@ url: "https://amanagarwal.io"
 baseurl: "https://amanagarwal.io"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: 
 
 tracking_id:
 
 footer: yes
 footer_url: "https://amanagarwal.io"
-footer_text: "aman agarwal<br><br>"
+footer_text: "aman agarwal"
 
 sass:
     style: compressed
